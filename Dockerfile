@@ -8,7 +8,7 @@ RUN apt-get update && \
     git
 
 # Create a virtual environment
-RUN python3.10 -m venv /venv
+RUN python3 -m venv /venv
 
 # Install PyYAML within the virtual environment
 RUN /venv/bin/pip install PyYAML
