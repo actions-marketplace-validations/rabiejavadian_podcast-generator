@@ -1,4 +1,4 @@
-name: "podcast generator"
+name: "Practical GitHub Actions linkedin course - podcast generator"
 author: "Rabie Javadian"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
